@@ -1,5 +1,5 @@
 ### Sobre mim:
-- :+1: Olá, meu nome é **@carladutra**.
+- :+1: Olá, meu nome é **Carla Dutra**.
  - 🔢 Sou professora de Matemática e especialista em Perícia Forense Computacional.
  
  - Estou aprendendo:
