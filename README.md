@@ -1,6 +1,6 @@
 ### Sobre mim:
 - :+1: Olá, meu nome é **Carla Dutra**.
- - 🔢 Sou professora de Matemática e especialista em Perícia Forense Computacional.
+ - 🔢 Sou professora de Matemática, Games e Programação e Pensamento Computacional, formada em Segurança da Informação e especialista em Perícia Forense Computacional.
  
  - Estou aprendendo:
  
