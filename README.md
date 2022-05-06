@@ -1,6 +1,8 @@
 ### Sobre mim:
-- :+1: Olá, meu nome é **Carla Dutra**.
- - 🔢 Sou professora de Matemática, Games e Programação e Pensamento Computacional.
+- :+1: Olá, meu nome é **Carla**;
+ - 🔢 Formada em Matemática pela UENP-Jacarezinho;
+ - :woman_technologist:Tecnóloga em Segurança da Informação pela Fatec-Ourinhos;
+ - Sou professora de Matemática, Games e Programação e Pensamento Computacional.
  
  - Estou aprendendo:
  
