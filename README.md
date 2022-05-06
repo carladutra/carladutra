@@ -1,9 +1,9 @@
 ### Sobre mim:
 - :+1: Olá, meu nome é **Carla**;
  - 🔢 Formada em Matemática - UENP-Jacarezinho;
- - :woman_technologist:Tecnóloga em Segurança da Informação - Fatec-Ourinhos;
- - :heart_eyes:Especialista em Perícia Forense Computacional;
- - Sou professora de Matemática, Games e Programação e Pensamento Computacional.
+ - :woman_technologist: Tecnóloga em Segurança da Informação - Fatec-Ourinhos;
+ - :heart_eyes: Especialista em Perícia Forense Computacional;
+ - :woman_teacher: Professora de Matemática, Games e Programação e Pensamento Computacional.
  
  - Estou aprendendo:
  
